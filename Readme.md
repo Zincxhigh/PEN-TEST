@@ -1,4 +1,6 @@
-# PEN-TEST Hackclub
+<P align="center">
+<img width="3780" height="1890" alt="ESCAPE YOUR FATE" src="https://github.com/user-attachments/assets/9aaa356e-a8a3-4cf1-9fa4-55eae4338c55" />
+</p>
 
 Welcome to **PEN-TEST**, a youth-driven cybersecurity community where teenagers explore, learn, and innovate in the world of application security.
 
